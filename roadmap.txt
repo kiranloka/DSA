@@ -1,0 +1,408 @@
+Creating a list of 300 programming questions covering all aspects of Data Structures and Algorithms (DSA) is a substantial task. However, I can provide you with a set of questions that cover various DSA topics in Java. Make sure to practice and understand the solutions thoroughly. Additionally, you may want to supplement this list with hands-on coding and problem-solving on platforms like LeetCode, HackerRank, or Codeforces. Here's a diverse set of questions to get you started:
+
+### Arrays
+
+1. Find the maximum and minimum element in an array.
+2. Rotate an array to the right by k steps.
+3. Implement an algorithm to reverse an array.
+4. Determine if a sequence of numbers can form an arithmetic progression.
+5. Implement an algorithm to find the "Kth" largest element in an array.
+6. Find the missing number in an array of 1 to N.
+7. Implement an algorithm to move all zeroes to the end of the array.
+8. Given an array, find the subarray with the largest sum (Kadane's Algorithm).
+9. Implement an algorithm to find duplicate elements in an array.
+
+### Linked Lists
+
+10. Implement a singly linked list.
+11. Detect a cycle in a linked list.
+12. Find the middle of a linked list.
+13. Reverse a linked list.
+14. Merge two sorted linked lists.
+15. Remove duplicates from a sorted/unsorted linked list.
+16. Implement an algorithm to check if a linked list is a palindrome.
+17. Given two linked lists representing two non-negative numbers, implement addition.
+18. Clone a linked list with next and random pointer.
+
+### Stacks and Queues
+
+19. Implement a stack using arrays/linked list.
+20. Implement a queue using stacks.
+21. Evaluate a postfix expression.
+22. Implement a function to sort a stack.
+23. Design a data structure that supports push, pop, top, and retrieving the minimum element in constant time.
+24. Implement a circular queue.
+25. Implement a double-ended queue (deque).
+
+### Trees
+
+26. Implement a binary tree and perform tree traversals (in-order, pre-order, post-order).
+27. Find the height of a binary tree.
+28. Check if a binary tree is balanced.
+29. Given a binary tree, check if it is a binary search tree (BST).
+30. Find the lowest common ancestor in a binary tree.
+31. Serialize and deserialize a binary tree.
+32. Print all nodes at distance k from a given node in a binary tree.
+33. Convert a binary search tree to a sorted doubly linked list.
+34. Find the diameter of a binary tree.
+
+### Graphs
+
+35. Implement a graph (adjacency matrix/adjacency list).
+36. Perform depth-first search (DFS) on a graph.
+37. Perform breadth-first search (BFS) on a graph.
+38. Check if a graph is cyclic.
+39. Find the shortest path in an unweighted graph.
+40. Implement Dijkstra's algorithm.
+41. Implement Kruskal's algorithm for minimum spanning tree.
+42. Detect a cycle in a directed graph.
+43. Find strongly connected components in a directed graph.
+44. Count the number of islands in a 2D matrix.
+
+### Sorting and Searching
+
+45. Implement bubble sort.
+46. Implement insertion sort.
+47. Implement selection sort.
+48. Implement quicksort.
+49. Implement mergesort.
+50. Implement binary search.
+51. Find the intersection of two sorted arrays.
+52. Implement an efficient searching algorithm for a rotated sorted array.
+53. Find the majority element in an array.
+
+### Dynamic Programming
+
+54. Implement Fibonacci series using dynamic programming.
+55. Solve the coin change problem.
+56. Find the longest common subsequence.
+57. Implement the 0/1 knapsack problem.
+58. Find the minimum edit distance between two strings.
+59. Compute the nth Fibonacci number using matrix exponentiation.
+60. Implement the rod cutting problem.
+
+### Greedy Algorithms
+
+61. Implement Huffman coding.
+62. Solve the activity selection problem.
+63. Find the minimum number of coins to make change.
+64. Implement Kruskal's algorithm for minimum spanning tree.
+65. Implement Prim's algorithm for minimum spanning tree.
+66. Solve the job sequencing problem.
+67. Implement Dijkstra's algorithm.
+
+### Backtracking
+
+68. Solve the N-Queens problem.
+69. Generate all possible combinations of a given set.
+70. Implement Sudoku solver.
+71. Generate all permutations of a given set.
+72. Implement the Knight's Tour problem.
+73. Implement the Rat in a Maze problem.
+74. Solve the Subset Sum problem.
+75. Solve the Hamiltonian Cycle problem.
+
+### Bit Manipulation
+
+76. Find the single non-repeating element in an array.
+77. Count set bits in an integer.
+78. Check if a number is a power of two.
+79. Swap two numbers without using a temporary variable.
+80. Find the two non-repeating elements in an array of repeating elements.
+
+### Miscellaneous
+
+81. Implement an LRU (Least Recently Used) Cache.
+82. Find the longest increasing subsequence in an array.
+83. Check if a Sudoku is valid.
+84. Implement an algorithm to find the square root of a number.
+85. Implement a basic calculator to evaluate a simple expression string.
+86. Implement the atoi function which converts a string to an integer.
+87. Check if a string is a valid palindrome.
+88. Implement regular expression matching.
+89. Find the shortest common supersequence of two strings.
+90. Implement the strstr function (substring search).
+
+### Advanced Topics
+
+91. Implement a trie (prefix tree).
+92. Implement a suffix array.
+93. Implement the Aho-Corasick algorithm for string matching.
+94. Implement the KMP algorithm for pattern searching.
+95. Implement the Boyer-Moore algorithm for string searching.
+96. Implement the Rabin-Karp algorithm for string searching.
+97. Implement the Floyd-Warshall algorithm for all-pairs shortest paths.
+98. Implement the Ford-Fulkerson algorithm for maximum flow in a network.
+99. Implement the Bellman-Ford algorithm for single-source shortest paths.
+100. Implement the Johnson algorithm for all-pairs shortest paths.
+
+### System Design
+
+101. Design a URL shortening service.
+102. Design a key-value store with support for basic operations.
+103. Design a distributed cache system.
+104. Design a tiny URL system.
+105. Design a file system.
+106. Design a scalable news feed system.
+107. Design a recommendation system.
+108. Design a load balancer.
+109. Design a chat application.
+110. Design a social media platform.
+
+Feel free to mix and match these questions based on your proficiency level. As you progress, try solving more challenging problems and explore advanced algorithms and data structures.
+
+Certainly! Here's another set of 100 questions to bring the total to 210:
+
+### Arrays
+
+111. Implement an algorithm to find the "Kth" smallest element in an array.
+112. Implement an algorithm to rotate a matrix (90 degrees).
+113. Find the equilibrium index of an array.
+114. Implement an algorithm to merge intervals.
+115. Implement an algorithm to find the maximum product subarray.
+116. Implement an algorithm to rotate an NxN matrix by 90 degrees.
+117. Implement an algorithm to search an element in a rotated sorted array.
+118. Implement an algorithm to find the peak element in an array.
+119. Implement an algorithm to merge overlapping intervals.
+120. Implement an algorithm to arrange elements in an array such that the maximum element is at the peak.
+
+### Linked Lists
+
+121. Given a linked list, implement a function to reverse alternate k nodes.
+122. Flatten a multilevel doubly linked list.
+123. Check if a linked list is a palindrome (constant space).
+124. Clone a linked list with next and random pointer (constant space).
+125. Implement an algorithm to add two numbers represented by linked lists.
+126. Given a linked list, implement a function to detect a palindrome sublist.
+127. Implement an algorithm to find the intersection point of two linked lists.
+128. Implement an algorithm to delete N nodes after M nodes in a linked list.
+129. Given a linked list, implement an algorithm to reorder it.
+
+### Stacks and Queues
+
+130. Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+131. Implement a queue using two stacks.
+132. Design and implement a circular queue.
+133. Implement a stack that supports push, pop, top, and retrieving the maximum element in constant time.
+134. Implement a queue using circular arrays.
+135. Design and implement a double-ended queue (deque).
+136. Implement a function to sort a stack using recursion.
+137. Design and implement a stack that supports push, pop, top, and retrieving the middle element in constant time.
+138. Implement a function to check for balanced parentheses in an expression.
+139. Implement a stack that supports push, pop, top, and retrieving the minimum element in O(1) time (with duplicates).
+
+### Trees
+
+140. Given a binary tree, convert it into a doubly linked list in-place.
+141. Check if a binary tree is a subtree of another binary tree.
+142. Find the vertical sum of a binary tree.
+143. Check if two binary trees are isomorphic.
+144. Find the maximum sum leaf-to-root path in a binary tree.
+145. Implement an algorithm to flatten a binary tree to a linked list.
+146. Check if a binary tree is symmetric.
+147. Convert a given binary search tree to a balanced BST.
+148. Given two binary trees, check if one is a subtree of the other.
+149. Find the kth smallest and kth largest element in a binary search tree.
+
+### Graphs
+
+150. Check if a graph is connected.
+151. Find the shortest path in a weighted graph using Floyd-Warshall algorithm.
+152. Check if there is a path between two nodes in a graph.
+153. Implement the Kruskal algorithm using union-find.
+154. Check if a directed graph is a tree.
+155. Find the topological ordering of a directed graph.
+156. Count the number of edges in an undirected graph.
+157. Given a graph, find the number of strongly connected components.
+158. Find the articulation points in an undirected graph.
+159. Given a directed graph, check if it contains a cycle.
+
+### Sorting and Searching
+
+160. Implement shell sort.
+161. Implement counting sort.
+162. Implement radix sort.
+163. Implement heap sort.
+164. Find the median of two sorted arrays.
+165. Search in an almost sorted array (each element is at most k away from its target position).
+166. Implement ternary search.
+167. Search in a rotated sorted array with duplicates.
+168. Find the peak element in a 2D array.
+169. Implement an efficient algorithm for finding the first non-repeating character in a string.
+
+### Dynamic Programming
+
+170. Count the number of ways to reach a given score in a game.
+171. Implement the longest palindromic subsequence.
+172. Solve the word break problem.
+173. Given a set of coins, find the minimum number of coins needed to make a sum.
+174. Given a matrix of 1s and 0s, find the largest square submatrix of 1s.
+175. Find the minimum number of jumps to reach the end of an array.
+176. Given a sequence, find the length of the longest increasing subsequence.
+177. Given two strings, find the shortest common supersequence.
+178. Implement the longest common prefix algorithm.
+179. Find the minimum cost path in a 2D array.
+
+### Greedy Algorithms
+
+180. Implement the Huffman decoding algorithm.
+181. Implement the Johnson's algorithm for all-pairs shortest paths.
+182. Implement the fractional knapsack problem.
+183. Implement the Prim's algorithm using a priority queue.
+184. Implement the Kruskal's algorithm using a priority queue.
+185. Implement the Dijkstra algorithm using a priority queue.
+186. Solve the fractional knapsack problem.
+187. Implement the job sequencing with deadlines problem.
+188. Implement the activity selection problem with maximum overlapping activities.
+189. Implement the activity selection problem with maximum non-overlapping activities.
+
+### Backtracking
+
+190. Implement the N-Queens problem with a unique solution.
+191. Generate all possible subsets of a given set.
+192. Solve the subset sum problem.
+193. Implement the Sudoku solver using backtracking.
+194. Generate all permutations of a given set.
+195. Solve the Knight's Tour problem.
+196. Implement the Rat in a Maze problem with all possible paths.
+197. Solve the Hamiltonian Cycle problem using backtracking.
+198. Implement the m-coloring problem.
+199. Implement the N-Rooks problem.
+
+### Bit Manipulation
+
+200. Implement the XOR linked list.
+201. Count total set bits in all numbers from 1 to N.
+202. Implement the Gray code sequence.
+203. Count the number of bits needed to convert integer A to integer B.
+204. Given an array where every element occurs three times, except one element, find that unique element.
+205. Implement the algorithm to add two binary numbers represented as strings.
+206. Check if a number is sparse or not.
+207. Implement the division of two integers without using the division operator.
+208. Given an array, find the two numbers with odd occurrences.
+209. Implement the next greater element using the same digits.
+
+### Miscellaneous
+
+210. Implement the Kth largest element in a stream.
+211. Given a string, find the longest substring without repeating characters.
+212. Implement the atoi function with error handling.
+213. Implement a basic calculator to evaluate a simple expression string with parentheses.
+214. Check if a Sudoku is solvable or not.
+215. Implement regular expression matching with support for '*' and '?'.
+216. Find the longest prefix matching for a given set of strings.
+217. Implement an algorithm to find the square root of a number using binary search.
+218. Implement the strstr function with support for wildcards.
+219. Check if a given binary tree is balanced.
+220. Serialize and deserialize an N-ary tree.
+
+Feel free to use these additional questions to further enhance your understanding and skills in Data Structures and
+
+
+Certainly! Here's another set of 100 questions, bringing the total to 310:
+
+### Arrays
+
+221. Implement an algorithm to find the peak element in an unsorted array.
+222. Merge k sorted arrays.
+223. Implement an algorithm to find the longest subarray with at most two distinct elements.
+224. Implement an algorithm to find the maximum sum rectangle in a 2D matrix.
+225. Rotate an NxN matrix by 180 degrees.
+226. Implement an algorithm to find the length of the shortest unsorted contiguous subarray.
+227. Implement an algorithm to find the equilibrium point in an array.
+228. Implement an algorithm to find the majority element in an array (Boyer-Moore Voting Algorithm).
+229. Find the minimum distance between two numbers in an array.
+230. Implement an algorithm to find the largest subarray with equal number of 0s and 1s.
+
+### Linked Lists
+
+231. Reverse nodes in k-group.
+232. Implement an algorithm to subtract two numbers represented by linked lists.
+233. Implement an algorithm to detect a cycle in a linked list and remove it.
+234. Implement an algorithm to add two numbers represented by linked lists, where each node represents a digit.
+235. Given a linked list, implement an algorithm to sort it in O(n log n) time and O(1) space.
+236. Flatten a binary tree to a linked list (in-place).
+237. Implement an algorithm to detect a loop in a linked list.
+238. Find the intersection point of two singly linked lists.
+239. Implement an algorithm to reverse alternate nodes in a linked list.
+240. Implement an algorithm to add one to a number represented as a linked list.
+
+### Stacks and Queues
+
+241. Design a data structure that supports push, pop, top, and retrieving the maximum element, all in O(1) time.
+242. Implement a circular queue using arrays.
+243. Design and implement a stack that supports push, pop, top, and retrieving the minimum element in O(1) time.
+244. Implement a queue using two stacks.
+245. Implement a function to evaluate a postfix expression.
+246. Implement a stack that supports push, pop, top, and retrieving the minimum element, with constant time and space complexity.
+247. Design and implement a double-ended queue (deque) using linked lists.
+248. Implement a stack using a priority queue.
+249. Implement a function to sort a stack using another stack.
+250. Implement a circular queue using doubly linked list.
+
+### Trees
+
+251. Given a binary tree, serialize and deserialize it.
+252. Given a binary tree, check if it is a valid binary search tree.
+253. Implement an algorithm to find the maximum width of a binary tree.
+254. Convert a binary search tree to a doubly linked list.
+255. Given a binary tree, check if it is a full binary tree.
+256. Given a binary tree, check if it is a complete binary tree.
+257. Print nodes at distance k from the root in a binary tree.
+258. Implement an algorithm to find the vertical order traversal of a binary tree.
+259. Find the common ancestors of two nodes in a binary tree.
+260. Find the maximum sum path between two leaves in a binary tree.
+
+### Graphs
+
+261. Find the number of islands in a 2D matrix.
+262. Implement the Floyd-Warshall algorithm for all-pairs shortest paths.
+263. Given a sorted dictionary of an alien language, find the order of characters.
+264. Check if there is a mother vertex in a directed graph.
+265. Detect a negative cycle in a weighted graph.
+266. Find the shortest path in a weighted graph with negative edges.
+267. Check if a graph is a tree or not.
+268. Given a graph, find the maximum number of edges that can be added without creating a cycle.
+269. Find the longest path in a directed acyclic graph (DAG).
+270. Check if a graph is bipartite.
+
+### Sorting and Searching
+
+271. Implement interpolation search.
+272. Implement exponential search.
+273. Find the peak element in a mountain array.
+274. Implement an algorithm to find the maximum difference between two elements in an array.
+275. Search in a row-wise and column-wise sorted matrix.
+276. Implement a search algorithm for a sorted and rotated array.
+277. Implement an algorithm to search in an almost sorted array.
+278. Implement an algorithm to search in a sorted matrix.
+279. Implement an algorithm to search an element in a row-wise and column-wise sorted matrix.
+280. Implement an algorithm to search for an element in a sorted and rotated array.
+
+### Dynamic Programming
+
+281. Implement the edit distance (Levenshtein distance) algorithm.
+282. Implement the shortest common supersequence problem.
+283. Implement the longest common subarray with at least k distinct elements.
+284. Implement an algorithm to find the minimum partition sum.
+285. Find the longest substring without repeating characters.
+286. Find the minimum number of operations to convert one string to another.
+287. Find the longest increasing subsequence with consecutive integers.
+288. Implement an algorithm to find the minimum cost to reach the bottom-right cell in a 2D matrix.
+289. Given a matrix of 1s and 0s, find the largest rectangle containing only 1s.
+290. Find the longest palindromic substring.
+
+### Greedy Algorithms
+
+291. Implement the Huffman coding algorithm.
+292. Find the minimum number of platforms required for a railway station.
+293. Implement the activity selection problem with maximum overlapping activities.
+294. Implement the job sequencing problem with deadlines.
+295. Find the minimum number of coins to make change.
+296. Implement the fractional knapsack problem.
+297. Design and implement a task scheduler.
+298. Implement the minimum number of swaps required to sort an array.
+299. Implement the minimum cost to connect all cities.
+300. Implement the Kruskal's algorithm for finding the minimum spanning tree.
+
+These questions cover a wide range of topics and difficulty levels in Data Structures and Algorithms. Happy coding!
