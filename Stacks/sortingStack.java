@@ -21,6 +21,7 @@ public class sortingStack{
       stack.push(tempStack.pop());
     }
   }
+
   public static void main(String[] args) {
     Stack<Integer> stack = new Stack<>();
     stack.push(4);
