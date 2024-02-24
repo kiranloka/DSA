@@ -1,34 +1,30 @@
-pubic
-class streizeAndDesterilize {
-  public static String serialize(Node node) {
-    if (root == null) {
-      return null;
+package Trees;
+import java.util.LinkedList;
+import java.util.Queue;
 
+
+public class serializeAndDeserialize{
+  public static class TreeNode{
+    int data;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int val){
+      this.data=val;
     }
-    StringBuilder sb = new StringBuilder();
-    preOrderSerialize(root, sb);
-    return sb.toString();
-
   }
 
-  private static void preOrderSerialize(Node node, StringBuilder sb) {
-    if (node == null) {
-      sb.append("null");
+  public String serialize(TreeNode root){
+    StringBuilder sb=new StringBuilder();
+    serializeHelper(root,sb);
+    return sb.toString();
+  }
 
-    } else {
-      sb.append(node.data + " ");
-      preorderSerialize(node.left, sb);
-      preorderSerialize(node.right, sb);
+  public void serializeHelper(TreeNode root, StringBuilder sb){
+    if(root==null){
+      sb.append("#,");
+      return;
     }
-  }}
-
-Class Node{
-  int data;
-  Node left;
-  Node right;
-
-  public Node(int item){
-    this.data=item;
-    left=right=null;
-
+    sb.append(root.val);
+    
+  }
 }
